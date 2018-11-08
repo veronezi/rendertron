@@ -52,7 +52,7 @@
                             <verbose>true</verbose>
                             <images>
                                 <image>
-                                    <name>sample-rendertron</name>
+                                    <name>veronezi/sample-rendertron</name>
                                     <build>
                                         <filter>false</filter>
                                         <dockerFileDir>${project.build.directory}/docker-build/rendertron</dockerFileDir>
